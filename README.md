@@ -33,4 +33,5 @@ window.addEventListener("load", () => {
 
 ### Are there any projects that use this library?
 
-There are none at the moment, though there are some examples in the [examples folder](./example/).
+Other than some [examples](./example) there are also some projects that use this library:
+ - [Fractals](https://github.com/hds536jhmk/Fractals) (A Fractal Visualizer)
