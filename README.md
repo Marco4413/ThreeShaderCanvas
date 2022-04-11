@@ -2,7 +2,7 @@
 
 ### What does this do?
 
-It wraps three.js's renderer to make it easier to test Fragment Shaders in a similar way to [Shadertoy](https://www.shadertoy.com).
+It wraps [three.js](https://threejs.org)'s renderer to make it easier to test Fragment Shaders in a similar way to [Shadertoy](https://www.shadertoy.com).
 
 ### How do I use it?
 
