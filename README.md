@@ -35,3 +35,8 @@ window.addEventListener("load", () => {
 
 Other than some [examples](./example) there are also some projects that use this library:
  - [Fractals](https://github.com/hds536jhmk/Fractals) (A Fractal Visualizer)
+
+### Is there an easy way to preview examples?
+
+This repo is hosted on GitHub Pages so for example to access the uv example you can open
+the following link: [https://hds536jhmk.github.io/ThreeShaderCanvas/example/uv](https://hds536jhmk.github.io/ThreeShaderCanvas/example/uv)
