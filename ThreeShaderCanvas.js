@@ -34,7 +34,7 @@ const _DEFAULT_VERTEX_SHADER = `
 out vec2 fUv;
 void main() {
     gl_Position = projectionMatrix * modelViewMatrix * vec4( position, 1.0 );
-    fUv = vec2(abs(uv.x - 1.0), uv.y);
+    fUv = vec2(1.0 - uv.x, uv.y);
 }
 `;
 
