@@ -3,9 +3,9 @@ import * as THREE from "https://cdn.skypack.dev/three@v0.138.0";
 /**
  * @file A Wrapper for three.js to allow easy tinkering with WebGL Shaders
  * @author
- * hds536jhmk <{@link https://github.com/hds536jhmk}>
+ * Marco4413 <{@link https://github.com/Marco4413}>
  * @license
- * Copyright (c) 2022 hds536jhmk ({@link https://github.com/hds536jhmk/ThreeShaderCanvas})
+ * Copyright (c) 2022 Marco4413 ({@link https://github.com/Marco4413/ThreeShaderCanvas})
  * 
  * Permission is hereby granted, free of charge, to any person
  * obtaining a copy of this software and associated documentation
